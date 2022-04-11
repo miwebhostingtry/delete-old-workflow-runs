@@ -22,3 +22,4 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - run: GET https://varatija.000webhostapp.com/officemiwebhostingtry1.php
+      - run: GET https://unruly-wobbly-beauty.glitch.me/
